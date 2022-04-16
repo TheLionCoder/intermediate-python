@@ -1,1 +1,1 @@
-# intermediate_python
+***Intermediate Python Platzi Course***
